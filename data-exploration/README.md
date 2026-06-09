@@ -11,6 +11,8 @@ The analysis is structured into four stages:
 
 ## Brief Dataset Overview
 
+![Dataset Overview](../images/variable-type.png)
+
 ## Univariate Analysis
 
 ## Bivariate Analysis
