@@ -6,18 +6,32 @@ This project aims to uncover the key drivers behind cancellation behaviour throu
 
 The findings obtained throughout the analysis are then used to guide feature selection and support the development of a predictive machine learning model capable of estimating the likelihood of a booking being cancelled.
 
-# Content
+## Content
 
 1. [Exploratory Data Analysis](./data-exploration/README.md)
 2. [Data Preprocessing]()
 3. [Model Development]()
 4. [Model Evaluation]()
 
-# Build Configurations 
+## Build Configuration 
 
 The project environment can be recreated using the provided `environment.yml` file.
 ```bash
 conda env create -f enviroment.yml
 conda activate hotel_booking
 jupyter lab
+```
+
+## Repository Structure
+
+```text
+hotel-booking-project/
+│
+├── data/
+├── data-exploration/
+├── data-preprocessing/
+├── model-development/
+├── model-evaluation/
+├── README.md
+└── environment.yml
 ```
