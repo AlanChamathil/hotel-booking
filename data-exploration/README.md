@@ -11,18 +11,32 @@ The analysis is structured into four stages:
 
 ## Brief Dataset Overview
 
-![Dataset Overview](../images/variable-type.png)
+<table align="center">
+<tr>
+<td align="center">
+<img src="../images/variable-type.png" "><br>
+<b>Feature Types</b>
+</td>
 
-<table>
-  <tr>
-    <td>
-      <img src="../images/variable-type.png" width="400"/>
-    </td>
-    <td>
-      <img src="./images/dataset-summary.png" width="400"/>
-    </td>
-  </tr>
+<td align="center">
+<img src="../images/dataset-summary.png" ><br>
+<b>Dataset Summary</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="../images/missing-value-summary.png" ><br>
+<b>Missing Value Summary</b>
+</td>
+
+<td align="center">
+<img src="../images/placeholder-categories.png" ><br>
+<b>Placeholder Categories</b>
+</td>
+</tr>
 </table>
+
 
 
 ## Univariate Analysis
