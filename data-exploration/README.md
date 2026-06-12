@@ -13,6 +13,18 @@ The analysis is structured into four stages:
 
 ![Dataset Overview](../images/variable-type.png)
 
+<table>
+  <tr>
+    <td>
+      <img src="../images/variable-type.png" width="400"/>
+    </td>
+    <td>
+      <img src="./images/dataset-summary.png" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
 ## Univariate Analysis
 
 ## Bivariate Analysis
