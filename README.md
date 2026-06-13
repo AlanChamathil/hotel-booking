@@ -9,9 +9,9 @@ The findings obtained throughout the analysis are then used to guide feature sel
 ## Content
 
 1. [Exploratory Data Analysis](./data-exploration/README.md)
-2. [Data Preprocessing]()
-3. [Model Development]()
-4. [Model Evaluation]()
+2. [Data Preprocessing]
+3. [Model Development]
+4. [Model Evaluation]
 
 ## Build Configuration 
 
