@@ -39,7 +39,7 @@ The analysis is structured into four stages:
 
 
 
-## Univariate Analysis
+## Univariate Analysis: Key Findings
 
 <!-- Brief Intro  -->
 
@@ -54,7 +54,7 @@ The analysis is structured into four stages:
 - Most bookings do not require parking spaces.
 - Most reservations undergo no booking modifications.
 
-## Bivariate Analysis
+## Bivariate Analysis: Key Findings
 
 <!--  -->
 
