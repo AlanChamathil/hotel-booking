@@ -17,7 +17,7 @@ The findings obtained throughout the analysis are then used to guide feature sel
 
 The project environment can be recreated using the provided `environment.yml` file.
 ```bash
-conda env create -f enviroment.yml
+conda env create -f environment.yml
 conda activate hotel_booking
 jupyter lab
 ```
